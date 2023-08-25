@@ -4,6 +4,11 @@ This is the workspace to test around with the DBX
 
 It link between Databricks account and Github
 
+# Reference
+[What is Databrick Medallion Architecture]([url](https://www.databricks.com/glossary/medallion-architecture))
+
+# TODO
+
 Reproduce steps:
 
   1. Go to User Setting -> Linked accounts -> Set your Git provider and credentials

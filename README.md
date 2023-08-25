@@ -16,3 +16,9 @@ Reproduce steps:
 
 Thought: 
 Probably looking into setup CI / CD which kinda cool
+
+
+TODO: 
+1. Create a Databricks DLT that support end-to-end transformation
+2. Setup CI CD but not sure where that would lead to
+3. Implement Medallion Architecture for DWH

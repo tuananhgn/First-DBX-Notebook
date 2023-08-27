@@ -2,10 +2,12 @@
 
 This is the workspace to test around with the DBX
 
+Main purpose of this repo is to learn and practice for Databricks Associate Data Engineering Certification
+
 It link between Databricks account and Github
 
 # Reference
-[What is Databrick Medallion Architecture]([url](https://www.databricks.com/glossary/medallion-architecture))
+[What is Databrick Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture)
 
 # TODO
 

@@ -21,11 +21,15 @@ Reproduce steps:
   6. Work on it -> Commit & push
   7. To GitHub web UI -> Create PR to get code review, approve and merge to master / main branch
 
-Thought: 
+Thought:
 Probably looking into setup CI / CD which kinda cool
 
+WIP:
+1. setup local_setup
+2. setup makefile to simplified the process
+3. working on profiles to connect dbt with databricks using PAT
 
-TODO: 
+TODO:
 1. Create a Databricks DLT that support end-to-end transformation
 2. Setup CI CD but not sure where that would lead to
 3. Implement Medallion Architecture for DWH
